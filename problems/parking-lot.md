@@ -22,3 +22,5 @@
 5. The **VehicleType** enum defines the different types of vehicles supported by the parking lot.
 6. Multi-threading is achieved through the use of synchronized keyword on critical sections to ensure thread safety.
 7. The **Main** class demonstrates the usage of the parking lot system.
+
+8. Spot, Terminal(exit and entry), parkingassignstrategy
